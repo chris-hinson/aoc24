@@ -17,5 +17,13 @@ path = "src/2/main.rs"
 name = "3"
 path = "src/3/main.rs"
 
+[[bin]]
+name = "4"
+path = "src/4/main.rs"
+
+[[bin]]
+name = "5"
+path = "src/5/main.rs"
+
 [dependencies]
 regex = "1.11.1"
